@@ -13,6 +13,8 @@
 	<h1> LEMONADE</h1>
 
 	<br>
-	<h1> Mathew needs less hate in his life </h1>
+	<h1> Matthew needs less hate in his life </h1>
+	<h1>Dominic needs to chill and git gud</h1>
+	
 </body>
 </html>
